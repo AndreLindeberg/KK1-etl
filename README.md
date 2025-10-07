@@ -85,5 +85,4 @@ Välj interpreter: **Python: Select Interpreter** → din `venv`.
 - Python 3.11+ (fungerar på 3.12)
 - Paket (se `requirements.txt`): `pandas`, `SQLAlchemy`, `pytest`
 
-## Inlämning
-Gör repot publikt på GitHub och lämna länken i Omniway. README, tester och loggning ska finnas med.
+
